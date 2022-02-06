@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hendriagae
+- 👋 Hi, I’m @hendrierida
 - 👀 I’m interested in android developer
 - 🌱 I’m currently learning android studio
 - 💞️ I’m looking to collaborate on developer android & ios 
